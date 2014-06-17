@@ -1,7 +1,7 @@
 # Site settings
 title: Low FOD, No Cod
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: me@lowfodnocod.kiwi
+description: "A blog about a Kiwi who is venturing down the path of a low FODMAP diet."
 baseurl: ""
 url: "http://lowfodnocod.kiwi"
 
