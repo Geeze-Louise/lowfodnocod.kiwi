@@ -1,6 +1,6 @@
 title:            Low FOD, No Cod
 description:      A blog from a Kiwi venturing down the path of a low FODMAP diet.
-logo:             site-logo.png
+logo:             fish_silhouette.png
 disqus_shortname:
 search:           true
 
@@ -10,7 +10,7 @@ url:              http://lowfodnocod.kiwi
 owner:
   name:           Holly
   avatar:         bio-photo.jpg
-  email:          me@lowfodnocod.kiwi
+  email:          holly@lowfodnocod.kiwi
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
