@@ -5,6 +5,7 @@ disqus_shortname:
 search:           true
 
 url:              http://lowfodnocod.kiwi
+baseurl:          /
 
 # Owner/author information
 owner:
