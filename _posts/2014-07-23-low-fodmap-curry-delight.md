@@ -5,8 +5,8 @@ modified: 2014-07-23 21:11:17 +1200
 tags: [FODMAP,curry]
 image:
   feature: curry3.jpg
-  credit: Javier Lastras
-  creditlink: https://www.flickr.com/photos/jlastras/
+  credit: Alpha
+  creditlink: https://www.flickr.com/photos/avlxyz/
 comments: 
 share: 
 ---
